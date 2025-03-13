@@ -1,7 +1,7 @@
 manifestVersion: 1
 driver: python
 pythonVersion: "3.11"
-package: "git+https://github.ibm.com/techpod/bee_python_devops_agent"
+package: "git+https://github.com/kat-maus/beeai-provider-starter"
 serverType: http
 mcpTransport: sse
 mcpEndpoint: /sse
